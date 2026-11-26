@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:☁️ 9°C/17°C
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261126T143036Z
+DTSTAMP:20261126T144529Z
 UID:20261127@short_summary
 DESCRIPTION:[00시] ☀️ 맑음 10°C (💧80% 🚩1m/s)\n[01시] ☀️
   맑음 9°C (💧85% 🚩1m/s)\n[02시] ☀️ 맑음 9°C (💧85% 🚩2
@@ -27,7 +27,7 @@ DESCRIPTION:[00시] ☀️ 맑음 10°C (💧80% 🚩1m/s)\n[01시] ☀️
  [19시] ☁️ 흐림 13°C (💧90% 🚩3.9m/s)\n[20시] ☁️ 흐림 12
  °C (💧85% 🚩3.1m/s)\n[21시] ☁️ 흐림 12°C (💧85% 🚩2.9m/s)
  \n[22시] ☁️ 흐림 11°C (💧85% 🚩2.9m/s)\n[23시] ☁️ 흐림 
- 11°C (💧80% 🚩2.6m/s)\n\n최종 업데이트: 2026-11-26 23:30:36 (KS
+ 11°C (💧80% 🚩2.6m/s)\n\n최종 업데이트: 2026-11-26 23:45:29 (KS
  T)
 LOCATION:우리집
 END:VEVENT
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:☀️ 2°C/10°C
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261126T143036Z
+DTSTAMP:20261126T144529Z
 UID:20261128@short_summary
 DESCRIPTION:[00시] ☁️ 흐림 10°C (💧80% 🚩2.4m/s)\n[01시] ⛅ 
  구름많음 9°C (💧80% 🚩1.9m/s)\n[02시] ⛅ 구름많음 9°C (
@@ -53,14 +53,14 @@ DESCRIPTION:[00시] ☁️ 흐림 10°C (💧80% 🚩2.4m/s)\n[01시] ⛅
  시] ☀️ 맑음 4°C (💧60% 🚩3.7m/s)\n[20시] ☀️ 맑음 4°C (
  💧65% 🚩3.4m/s)\n[21시] ☀️ 맑음 3°C (💧60% 🚩3.8m/s)\n[22
  시] ☀️ 맑음 3°C (💧60% 🚩3.9m/s)\n[23시] ☀️ 맑음 2°C (
- 💧60% 🚩3.9m/s)\n\n최종 업데이트: 2026-11-26 23:30:36 (KST)
+ 💧60% 🚩3.9m/s)\n\n최종 업데이트: 2026-11-26 23:45:29 (KST)
 LOCATION:우리집
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:☀️ -1°C/8°C
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261126T143036Z
+DTSTAMP:20261126T144529Z
 UID:20261129@short_summary
 DESCRIPTION:[00시] ☀️ 맑음 2°C (💧60% 🚩3.8m/s)\n[01시] ☀
  ️ 맑음 1°C (💧60% 🚩3.4m/s)\n[02시] ☀️ 맑음 1°C (💧60% 
@@ -78,7 +78,7 @@ DESCRIPTION:[00시] ☀️ 맑음 2°C (💧60% 🚩3.8m/s)\n[01시] ☀
  ☀️ 맑음 4°C (💧70% 🚩0.5m/s)\n[20시] ☀️ 맑음 4°C (💧7
  0% 🚩1.2m/s)\n[21시] ☀️ 맑음 3°C (💧70% 🚩1.2m/s)\n[22시] 
  ☁️ 흐림 3°C (💧70% 🚩1.9m/s)\n[23시] ☁️ 흐림 4°C (💧7
- 0% 🚩1.7m/s)\n\n최종 업데이트: 2026-11-26 23:30:36 (KST)
+ 0% 🚩1.7m/s)\n\n최종 업데이트: 2026-11-26 23:45:29 (KST)
 LOCATION:우리집
 END:VEVENT
 BEGIN:VEVENT
